@@ -18,7 +18,7 @@ if ($conn->connect_error) {
 <body>
     <h1>Bienvenido al Concesionario</h1>
     <h2>Elija una opción</h2>
-    <p>Si ya tiene una cuenta, inicie sesión en <a href="Login1.php">Login</a>.</p>
+    <p>Si ya tiene una cuenta, inicie sesión en <a href="login.php">Login</a>.</p>
     <p>Si no tiene una cuenta, registrese en <a href="registro.php">Registro</a>.</p>
     <ul>
         <li><a href="coches.php">Coches</a></li>
